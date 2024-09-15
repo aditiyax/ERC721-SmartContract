@@ -22,5 +22,3 @@ To use the ERC721 Smart Contract, you will need an Ethereum wallet and some Ethe
 This project is licensed under the MIT License. Feel free to fork, modify, and use it as you see fit.
 
 ---
-
-For any questions or contributions, feel free to open an issue or submit a pull request!
